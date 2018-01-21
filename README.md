@@ -22,3 +22,5 @@ To upgrade bazel
 ```
 brew upgrade bazel
 ```
+
+[Link to Android Tutorial](https://docs.bazel.build/versions/master/tutorial/android-app.html)
