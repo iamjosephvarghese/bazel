@@ -1,3 +1,4 @@
 android_sdk_repository(
     name = "androidsdk"
+    path = "/Users/joseph/Library/Android/sdk"
 )
